@@ -1,5 +1,5 @@
 context:
-  version: "0.1.4"
+  version: "0.1.6"
   python_min: '3.11'
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/n/nanonis-xarray/nanonis_xarray-${{ version }}.tar.gz
-    sha256: 879343f2cadf797ae2b225c82c39db3faab663ef4b425ffe173b852aed3dbd7e
+    sha256: 330e0dc97e3ff2adb4ec56b93b6343746394bc040eb8f580988b89ea512c2466
 
 build:
   number: 0
